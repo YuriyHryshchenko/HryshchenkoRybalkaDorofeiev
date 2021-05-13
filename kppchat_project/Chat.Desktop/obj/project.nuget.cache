@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "vq0n/tutGVMQlagqNiuTa0eEHuUnpS7sM6LS8tE8NMOxwmSDFCIMnjlB8tl4/XXY3Wku3bAXtwvcVmR1q+pVxg==",
+  "success": true,
+  "projectFilePath": "D:\\Универ\\Лабы\\КПП\\Project\\kppchat_project\\Chat.Desktop\\Chat.Desktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.8\\microsoft.aspnetcore.connections.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.8\\microsoft.aspnetcore.http.connections.client.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.8\\microsoft.aspnetcore.http.connections.common.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.8\\microsoft.aspnetcore.http.features.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.8\\microsoft.aspnetcore.signalr.client.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.8\\microsoft.aspnetcore.signalr.client.core.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.8\\microsoft.aspnetcore.signalr.common.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.8\\microsoft.aspnetcore.signalr.protocols.json.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.8\\microsoft.extensions.configuration.binder.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.extensions.logging\\3.1.8\\microsoft.extensions.logging.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.extensions.options\\3.1.8\\microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\system.io.pipelines\\4.7.2\\system.io.pipelines.4.7.2.nupkg.sha512",
+    "C:\\Users\\5678\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
